@@ -1,6 +1,6 @@
 body {
-	font-family: "Athelas", "Helvetica Neue", Helvetica;
-	font-size: 13px;
+	font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
+	font-size: 16px;
 }
 
 #menu {
@@ -12,8 +12,8 @@ body {
 }
 
 #menu .title {
-	font-family: Avenir;
-	font-size: 21px;
+	font-family: Helvetica;
+	font-size: 16px;
 }
 
 #menu ul {
