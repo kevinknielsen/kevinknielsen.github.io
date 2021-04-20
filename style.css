@@ -1,6 +1,6 @@
 body {
 	font-family: Helvetica;
-	font-size: 14px;
+	font-size: 13px;
 }
 
 #menu {
@@ -46,7 +46,6 @@ body {
 
 #content h1, #content h2, #content h3 {
 	font-family: Helvetica;
-	font-size: 16px;
 	margin: 0;
 }
 
@@ -56,6 +55,7 @@ body {
 
 #content p, #content ul {
 	color: #333;
+	line-height: 18px;
 }
 
 #content sup.note {
