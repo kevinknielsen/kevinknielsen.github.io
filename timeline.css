@@ -10,7 +10,7 @@
 .timeline {
 	padding: 40px 0px;
 	width: 40%;
-	margin-left: 10%;
+	margin-left: 8%;
 	margin-bottom: 40px;
 }
 
@@ -29,10 +29,11 @@
 }
 
 .timeline .column .title h1 {
-	font-size: 120px;
+	font-size: 64px;
 	color: rgba(0,0,0,0.1);
 	font-family: Helvetica;
 	letter-spacing: 3px;
+	margin-bottom: 24px;
 }
 
 .timeline .column .title h1:before {
@@ -47,8 +48,8 @@
 }
 
 .timeline .column .title h2 {
-	margin-top: -60px;
-	font-size: 33px;
+	margin-top: -52px;
+	font-size: 24px;
 }
 
 .timeline .column .description p {
@@ -70,7 +71,7 @@
 }
 
 .main h1 {
-	font-size: 80px;
+	font-size: 32px;
 	line-height: 60px;
 }
 
