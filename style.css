@@ -70,3 +70,12 @@ body {
 #content .task-list {
 	list-style-type: none;
 }
+
+img {
+	transition:transform 0.25s ease;
+}
+
+img:hover {
+	-webkit-transform:scale(3);
+	transform:scale(3);
+}
